@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LogicIcons.png</file>
+    </qresource>
+</RCC>
